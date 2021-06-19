@@ -1,3 +1,5 @@
+$clr-main: #57ff79;
+
 body {
   background-color: #333;
   color: #fff;
@@ -6,4 +8,7 @@ body {
 .content {
   width: 1000px;
   margin: 0 auto;
+}
+h1 {
+  color: $clr-main;
 }
